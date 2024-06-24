@@ -1,3 +1,18 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{resnet1}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, pp. 770--778, 2016.
+
+\bibitem{textbook}
+東京大学電気電子工学科.
+\newblock 電気電子情報第一前期実験テキスト.
+\newblock 2024.
+
+\bibitem{thesis}
+Tsuneo Aoi Takahiro~Ueno Daisuke~Muto, Makoto~Oya.
+\newblock 巻線の部分放電現象に関する研究.
+\newblock 2014.
 
 \end{thebibliography}
