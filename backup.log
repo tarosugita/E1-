@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.4.30)  24 JUN 2024 20:34
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.4.30)  25 JUN 2024 00:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -542,16 +542,7 @@ File: fig/He_edge.pdf Graphic file (type pdf)
 <fig/He_edge.pdf>
 File: fig/paschen_curve.pdf Graphic file (type pdf)
 <fig/paschen_curve.pdf>
- (./backup.bbl
-LaTeX Font Info:    Font shape `JT1/gt/m/it' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 6.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 6.
-LaTeX Font Info:    Font shape `JY1/gt/m/it' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 6.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 6.
-) [6] (./backup.aux)
+ (./backup.bbl) [6] (./backup.aux)
  ***********
 pLaTeX2e <2023-02-14>+1, based on
 LaTeX2e <2023-11-01> patch level 1
@@ -561,12 +552,12 @@ Package rerunfilecheck Info: File `backup.out' has not changed.
 (rerunfilecheck)             Checksum: F4FB913EB2B3B006D01FFEF06B4DF8C9;142.
  ) 
 Here is how much of TeX's memory you used:
- 10999 strings out of 474774
- 168782 string characters out of 5758801
+ 10994 strings out of 474774
+ 168724 string characters out of 5758801
  1933032 words of memory out of 5000000
- 33180 multiletter control sequences out of 15000+600000
- 577683 words of font info for 119 fonts, out of 8000000 for 9000
+ 33176 multiletter control sequences out of 15000+600000
+ 577337 words of font info for 118 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  72i,9n,79p,232b,460s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on backup.dvi (6 pages, 29792 bytes).
+Output written on backup.dvi (6 pages, 29428 bytes).
