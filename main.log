@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.4.30)  25 JUN 2024 01:21
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.4.30)  25 JUN 2024 10:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -428,6 +428,10 @@ Package hyperref Info: Link coloring OFF on input line 53.
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 16.60605pt on input line 56.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
@@ -459,23 +463,22 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 9.60999pt on input line 70.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 82.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 79.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 82.
+(Font)              scaled to size 9.60999pt on input line 79.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 82.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 79.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 82.
+(Font)              scaled to size 9.60999pt on input line 79.
 
-
-LaTeX Warning: Citation `resnet1' on page 1 undefined on input line 82.
+LaTeX Warning: Citation `textbook' on page 1 undefined on input line 79.
 
 File: fig/zu2.pdf Graphic file (type pdf)
 <fig/zu2.pdf>
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 90.
+(Font)              scaled to size 8.64899pt on input line 87.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 90.
+(Font)              scaled to size 8.64899pt on input line 87.
 File: fig/zu1.pdf Graphic file (type pdf)
 <fig/zu1.pdf>
 [1
@@ -488,83 +491,14 @@ File: fig/fusion.pdf Graphic file (type pdf)
 <fig/fusion.pdf>
 File: fig/pencil.pdf Graphic file (type pdf)
 <fig/pencil.pdf>
- [2]
+
+
+LaTeX Warning: Citation `textbook' on page 2 undefined on input line 157.
+
+[2]
 File: fig/disparity.pdf Graphic file (type pdf)
 <fig/disparity.pdf>
 File: fig/1_center(He).pdf Graphic file (type pdf)
 <fig/1_center(He).pdf>
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 196.
-File: fig/2_center(H2).pdf Graphic file (type pdf)
-<fig/2_center(H2).pdf>
-File: fig/3_center(Ar).pdf Graphic file (type pdf)
-<fig/3_center(Ar).pdf>
-File: fig/4_center(Ne).pdf Graphic file (type pdf)
-<fig/4_center(Ne).pdf>
-File: fig/5_center(N2).pdf Graphic file (type pdf)
-<fig/5_center(N2).pdf>
-File: fig/6_center(Xe).pdf Graphic file (type pdf)
-<fig/6_center(Xe).pdf>
-File: fig/3_edge(Ar).pdf Graphic file (type pdf)
-<fig/3_edge(Ar).pdf>
-File: fig/4_edge(Ne).pdf Graphic file (type pdf)
-<fig/4_edge(Ne).pdf>
-File: fig/color.pdf Graphic file (type pdf)
-<fig/color.pdf>
-File: fig/red.pdf Graphic file (type pdf)
-<fig/red.pdf>
-File: fig/blue.pdf Graphic file (type pdf)
-<fig/blue.pdf>
-File: fig/yellow.pdf Graphic file (type pdf)
-<fig/yellow.pdf>
-File: fig/magenta.pdf Graphic file (type pdf)
-<fig/magenta.pdf>
-File: fig/cyan.pdf Graphic file (type pdf)
-<fig/cyan.pdf>
-File: fig/green.pdf Graphic file (type pdf)
-<fig/green.pdf>
-File: fig/white.pdf Graphic file (type pdf)
-<fig/white.pdf>
-File: fig/black.pdf Graphic file (type pdf)
-<fig/black.pdf>
-File: fig/N2_300-400center.pdf Graphic file (type pdf)
-<fig/N2_300-400center.pdf>
-File: fig/N2_300-400edge.pdf Graphic file (type pdf)
-<fig/N2_300-400edge.pdf>
- [3]
-File: fig/hahaha.pdf Graphic file (type pdf)
-<fig/hahaha.pdf>
- [4] [5]
-File: fig/latexmkrc.pdf Graphic file (type pdf)
-<fig/latexmkrc.pdf>
-File: fig/He_center.pdf Graphic file (type pdf)
-<fig/He_center.pdf>
-File: fig/He_edge.pdf Graphic file (type pdf)
-<fig/He_edge.pdf>
-File: fig/paschen_curve.pdf Graphic file (type pdf)
-<fig/paschen_curve.pdf>
-File: fig/paschen_curve1.pdf Graphic file (type pdf)
-<fig/paschen_curve1.pdf>
- (./main.bbl) [6] (./main.aux)
- ***********
-pLaTeX2e <2023-02-14>+1, based on
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-02-20>
- ***********
-
-
-LaTeX Warning: There were undefined references.
-
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F4FB913EB2B3B006D01FFEF06B4DF8C9;142.
- ) 
-Here is how much of TeX's memory you used:
- 11001 strings out of 474774
- 168850 string characters out of 5758801
- 1932032 words of memory out of 5000000
- 33182 multiletter control sequences out of 15000+600000
- 577337 words of font info for 118 fonts, out of 8000000 for 9000
- 934 hyphenation exceptions out of 8191
- 72i,9n,79p,230b,520s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-Output written on main.dvi (6 pages, 31560 bytes).
+(Font)              scaled to 
