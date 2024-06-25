@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.4.30)  25 JUN 2024 10:16
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.4.30)  25 JUN 2024 10:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -462,26 +462,18 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 4.805pt on input line 58.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 9.60999pt on input line 70.
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 79.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 79.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 79.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 79.
-
-LaTeX Warning: Citation `textbook' on page 1 undefined on input line 79.
-
 File: fig/zu2.pdf Graphic file (type pdf)
 <fig/zu2.pdf>
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 87.
+(Font)              scaled to size 8.64899pt on input line 86.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 87.
+(Font)              scaled to size 8.64899pt on input line 86.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 File: fig/zu1.pdf Graphic file (type pdf)
 <fig/zu1.pdf>
-[1
+ [1
 
 
 ]
@@ -491,9 +483,17 @@ File: fig/fusion.pdf Graphic file (type pdf)
 <fig/fusion.pdf>
 File: fig/pencil.pdf Graphic file (type pdf)
 <fig/pencil.pdf>
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 156.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 156.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 156.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 156.
 
 
-LaTeX Warning: Citation `textbook' on page 2 undefined on input line 157.
+LaTeX Warning: Citation `textbook' on page 2 undefined on input line 156.
 
 [2]
 File: fig/disparity.pdf Graphic file (type pdf)
@@ -501,4 +501,4 @@ File: fig/disparity.pdf Graphic file (type pdf)
 File: fig/1_center(He).pdf Graphic file (type pdf)
 <fig/1_center(He).pdf>
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to 
+(Font)              scaled
